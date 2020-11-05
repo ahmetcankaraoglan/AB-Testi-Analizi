@@ -1,10 +1,8 @@
 # A/B Testi Analizi
 
-![](https://www.startupnedir.com/wp-content/uploads/2018/06/ab-test-780x405.png)
-
 Bir şirket yakın zamanda, mevcut teklif verme türüne yani "maximum bidding (maksimum teklif verme)" e alternatif olarak "average bidding (ortalama teklif verme)" adı verilen yeni bir teklif türünü tanıttı. Müşterilerimizden biri, bu yeni özelliği test etmeye karar verdi ve ortalama teklif vermenin maksimum tekliften daha fazla dönüşüm getirip getirmediğini anlamak için bir A/B testi yapmak istiyor. Bu A/B testinde, müşterimiz rastgele izleyicilerini Test ve Kontrol grubu gibi eşit büyüklükteki iki gruba ayırır. "Maksimum teklifi" içeren reklam kampanyası "Kontrol grubuna", "ortalama teklifi" içeren başka bir kampanya "Test grubuna" sunulur. A/B testi 1 aydır devam ediyor ve müşterimiz şimdi sizden bu A/B testinin sonuçlarını analiz etmenizi ve sunmanızı bekliyor. Sunumunuzda aşağıdaki soruları cevaplamalısınız:
 
-# A / B Testi Sonuçlarını Analiz Edin ve Sunun
+![](https://www.startupnedir.com/wp-content/uploads/2018/06/ab-test-780x405.png)
 
 **Sunumunuzda aşağıdaki soruları yanıtlamanız gerekir:**
 
